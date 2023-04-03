@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.list-items {
+  list-style-type: none;
+  flex: wrap;
+}
+
+.image {
+  height: 220px;
+  width: 320px;
+}
+
+.place-name {
+  color: #000;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
